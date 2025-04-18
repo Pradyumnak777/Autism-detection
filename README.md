@@ -6,6 +6,6 @@ This project utilizes T1-weighted structural MRI (sMRI) scans from the ABIDE-1 d
 
 - **Dataset**: ABIDE-1 (T1-weighted sMRI scans)
 - **Segmentation**: FCM-GMM hybrid on the middle slice
-- **Accuracy**: 91.29% for subjects under 13 years
+- **Accuracy**: 94.29% for subjects under 13 years
 
 For further details, please refer to the code and documentation.
